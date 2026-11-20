@@ -1,0 +1,6 @@
+﻿# Composer dependencies (restore with: composer install)
+vendor/
+
+# macOS
+.DS_Store
+
