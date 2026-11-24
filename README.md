@@ -106,3 +106,7 @@ More screenshots are in the [`screenshots/`](screenshots) folder.
 
 This is a learning project. Passwords are stored as MD5 hashes, which are not secure for production use.
 Before deploying it publicly, switch to `password_hash()` / `password_verify()` and use a non-root database user.
+
+## Author
+
+Built by **Han Su Yin (Cynthia)**: [GitHub](https://github.com/thecynthiayin) · [Portfolio](https://hansuyin.vercel.app)
